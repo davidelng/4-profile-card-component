@@ -22,8 +22,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./desktop.jpg)
-![](./mobile.jpg)
+![](screenshots/desktop.jpg)
+![](screenshots/mobile.jpg)
 
 ### Links
 
@@ -52,4 +52,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/davidelng)
+- Frontend Mentor - [@davidelng](https://www.frontendmentor.io/profile/davidelng)
